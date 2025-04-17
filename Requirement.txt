@@ -1,0 +1,12 @@
+Requirements
+
+
+pandas    : 1.1.5
+matplotlib: 3.2.2
+IPython   : 5.5.0
+mne       : 0.24.1
+scipy     : 1.4.1
+antropy   : 0.1.4
+seaborn   : 0.11.2
+google    : 2.0.3
+numpy     : 1.19.5
